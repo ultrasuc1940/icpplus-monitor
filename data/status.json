@@ -6,11 +6,10 @@
       "procedure_name": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
       "status": "error",
       "url": null,
-      "last_check": "2026-11-27T15:32:25+00:00",
+      "last_check": "2026-11-27T15:39:53+00:00",
       "logs": [
-        "[15:31:53] Opening ICPPLUS home page...",
-        "[15:32:05] Selecting province 'Barcelona'...",
-        "[15:32:25] Browser/WebDriver error: Message: \nStacktrace:\n#0 0x58eebb650caa <unknown>\n#1 0x58eebaf84cc5 <unknown>\n#2 0x58eebafca7df <unknown>\n#3 0x58eebafca971 <unknown>\n#4 0x58eebb008734 <unknown>\n#5 0x58eebb006db3 <unknown>\n#6 0x58eebb0066c1 <unknown>\n#7 0x58eebafc1557 <unknown>\n#8 0x58eebafc086e <unknown>\n#9 0x58eebafc1341 <unknown>\n#10 0x58eebb61379c <unknown>\n#11 0x58eebb611fcd <unknown>\n#12 0x58eebb5fcdf5 <unknown>\n#13 0x58eebb612c0a <unknown>\n#14 0x58eebb5e5b99 <unknown>\n#15 0x58eebb63b318 <unknown>\n#16 0x58eebb63b4b5 <unknown>\n#17 0x58eebb64f633 <unknown>\n#18 0x7472a56abdeb <unknown>\n#19 0x7472a573f4dc <unknown>\n"
+        "[15:38:53] Opening ICPPLUS home page...",
+        "[15:39:53] Browser/WebDriver error: Message: timeout: Timed out receiving message from renderer: -0.001\n  (Session info: chrome=158.0.8127.36)\nStacktrace:\n#0 0x64eb0cb90f7a <unknown>\n#1 0x64eb0c384935 <unknown>\n#2 0x64eb0c3746dd <unknown>\n#3 0x64eb0c37444e <unknown>\n#4 0x64eb0c372a2c <unknown>\n#5 0x64eb0c372faf <unknown>\n#6 0x64eb0c37e5e6 <unknown>\n#7 0x64eb0c38f830 <unknown>\n#8 0x64eb0c39566b <unknown>\n#9 0x64eb0c3738c7 <unknown>\n#10 0x64eb0c3735e8 <unknown>\n#11 0x64eb0c38f6f3 <unknown>\n#12 0x64eb0c40233d <unknown>\n#13 0x64eb0c3bcc27 <unknown>\n#14 0x64eb0c3bbf3e <unknown>\n#15 0x64eb0c3bca11 <unknown>\n#16 0x64eb0cb5292c <unknown>\n#17 0x64eb0cb5116b <unknown>\n#18 0x64eb0cb3be15 <unknown>\n#19 0x64eb0cb51d9a <unknown>\n#20 0x64eb0cb242d9 <unknown>\n#21 0x64eb0cb7a648 <unknown>\n#22 0x64eb0cb7a7e5 <unknown>\n#23 0x64eb0cb8f812 <unknown>\n#24 0x761cbc4abdeb <unknown>\n#25 0x761cbc53f4dc <unknown>\n"
       ]
     },
     "client2": {
@@ -19,13 +18,12 @@
       "procedure_name": "POLICÍA-TOMA DE HUELLAS (EXPEDICIÓN DE TARJETA) INICIAL, RENOVACIÓN, DUPLICADO Y LEY 14/2013",
       "status": "error",
       "url": null,
-      "last_check": "2026-11-27T15:33:00+00:00",
+      "last_check": "2026-11-27T15:40:55+00:00",
       "logs": [
-        "[15:32:28] Opening ICPPLUS home page...",
-        "[15:32:40] Selecting province 'Barcelona'...",
-        "[15:33:00] Browser/WebDriver error: Message: \nStacktrace:\n#0 0x5ad7a4e6bcaa <unknown>\n#1 0x5ad7a479fcc5 <unknown>\n#2 0x5ad7a47e57df <unknown>\n#3 0x5ad7a47e5971 <unknown>\n#4 0x5ad7a4823734 <unknown>\n#5 0x5ad7a4821db3 <unknown>\n#6 0x5ad7a48216c1 <unknown>\n#7 0x5ad7a47dc557 <unknown>\n#8 0x5ad7a47db86e <unknown>\n#9 0x5ad7a47dc341 <unknown>\n#10 0x5ad7a4e2e79c <unknown>\n#11 0x5ad7a4e2cfcd <unknown>\n#12 0x5ad7a4e17df5 <unknown>\n#13 0x5ad7a4e2dc0a <unknown>\n#14 0x5ad7a4e00b99 <unknown>\n#15 0x5ad7a4e56318 <unknown>\n#16 0x5ad7a4e564b5 <unknown>\n#17 0x5ad7a4e6a633 <unknown>\n#18 0x7d298d4abdeb <unknown>\n#19 0x7d298d53f4dc <unknown>\n"
+        "[15:39:55] Opening ICPPLUS home page...",
+        "[15:40:55] Browser/WebDriver error: Message: timeout: Timed out receiving message from renderer: -0.001\n  (Session info: chrome=158.0.8127.36)\nStacktrace:\n#0 0x5cd7d2bc9f7a <unknown>\n#1 0x5cd7d23bd935 <unknown>\n#2 0x5cd7d23ad6dd <unknown>\n#3 0x5cd7d23ad44e <unknown>\n#4 0x5cd7d23aba2c <unknown>\n#5 0x5cd7d23abfaf <unknown>\n#6 0x5cd7d23b75e6 <unknown>\n#7 0x5cd7d23c8830 <unknown>\n#8 0x5cd7d23ce66b <unknown>\n#9 0x5cd7d23ac8c7 <unknown>\n#10 0x5cd7d23ac5e8 <unknown>\n#11 0x5cd7d23c86f3 <unknown>\n#12 0x5cd7d243b33d <unknown>\n#13 0x5cd7d23f5c27 <unknown>\n#14 0x5cd7d23f4f3e <unknown>\n#15 0x5cd7d23f5a11 <unknown>\n#16 0x5cd7d2b8b92c <unknown>\n#17 0x5cd7d2b8a16b <unknown>\n#18 0x5cd7d2b74e15 <unknown>\n#19 0x5cd7d2b8ad9a <unknown>\n#20 0x5cd7d2b5d2d9 <unknown>\n#21 0x5cd7d2bb3648 <unknown>\n#22 0x5cd7d2bb37e5 <unknown>\n#23 0x5cd7d2bc8812 <unknown>\n#24 0x74ec152abdeb <unknown>\n#25 0x74ec1533f4dc <unknown>\n"
       ]
     }
   },
-  "last_run": "2026-11-27T15:33:03+00:00"
+  "last_run": "2026-11-27T15:40:58+00:00"
 }
